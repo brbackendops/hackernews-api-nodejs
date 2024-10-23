@@ -1,0 +1,2 @@
+GRANT ALL Privileges ON DATABASE hackerNewsDb TO postgres;
+TRUNCATE TABLE users RESTART IDENTITY;
